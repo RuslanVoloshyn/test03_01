@@ -1,0 +1,45 @@
+* {
+    font-size: 25px;
+}
+
+#select {
+    color: rgb(85, 218, 18);
+}
+
+.styl1 {
+    color: deeppink;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(91, 25, 247);
+}
+
+ul li {
+    text-decoration: underline;
+}
+
+ul>li>p {
+    color: chocolate;
+}
+
+.title+li {
+    color: darkmagenta;
+}
+
+.list~p {
+    text-align: center;
+}
+
+[style="tex"] {
+    color: darkgoldenrod;
+}
+
+a:hover {
+    color: chartreuse;
+}
+
+.Plus::first-letter {
+    color: rgb(15, 204, 43);
+
+}
