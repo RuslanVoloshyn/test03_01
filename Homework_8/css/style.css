@@ -22,6 +22,7 @@ body{
     width: 1000px;
     background: #E6E6E6;
     margin: 50px 0px;
+    position: relative;
 }
 
 .content:after{
@@ -43,8 +44,9 @@ body{
 }
 
 .item_2 {
-    float: right;
-    margin: -200px 0 0 0;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 .box {
