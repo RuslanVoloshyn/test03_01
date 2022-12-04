@@ -312,6 +312,9 @@ h1 {
     text-align: center;
     margin-top: 20px;
 }
+.ios {
+    color: #000000;
+}
 
 .boost {
     padding: 50px 0;
